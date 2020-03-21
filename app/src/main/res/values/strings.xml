@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">dayakar</string>
+    <string name="forgot_password"><u>forgot password?</u></string>
+    <string name="signup_text"><u>SignUp</u></string>
+</resources>
